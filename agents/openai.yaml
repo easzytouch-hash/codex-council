@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Council"
+  short_description: "Consult multiple AI perspectives for decisions"
+  default_prompt: "Use $codex-council to get multiple independent perspectives on this decision."
